@@ -12,7 +12,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apple/apple-original.svg" alt="Mac" width="40" height="40">
@@ -43,7 +43,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40">
-        
+</p>
         
 ### 🤝🏻 &nbsp;Connect with Me
 
